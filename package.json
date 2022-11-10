@@ -48,5 +48,5 @@
     ]
   },
   "proxy": "https://itog-backend.herokuapp.com",
-  "homepage": "https://<githubusername>.github.io/<app>"
+  "homepage": "https://github.com/VadAbr/itog-front"
 }
