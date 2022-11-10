@@ -29,7 +29,7 @@ export const App = () => {
 
   return (
     <div className="App">
-      <h1>Словарь</h1>
+      <h1>Словарь1</h1>
 
       <form className="form" onSubmit={onSubmit}>
         <input
