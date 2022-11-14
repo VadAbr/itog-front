@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/itog-front/static/css/main.22b664b6.css",
-    "main.js": "/itog-front/static/js/main.251e3131.js",
+    "main.js": "/itog-front/static/js/main.f9b082f4.js",
     "index.html": "/itog-front/index.html",
     "main.22b664b6.css.map": "/itog-front/static/css/main.22b664b6.css.map",
-    "main.251e3131.js.map": "/itog-front/static/js/main.251e3131.js.map"
+    "main.f9b082f4.js.map": "/itog-front/static/js/main.f9b082f4.js.map"
   },
   "entrypoints": [
     "static/css/main.22b664b6.css",
-    "static/js/main.251e3131.js"
+    "static/js/main.f9b082f4.js"
   ]
 }
