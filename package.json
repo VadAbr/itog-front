@@ -50,6 +50,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://itog-backend.herokuapp.com",
   "homepage": "https://vadabr.github.io/itog-front"
 }
